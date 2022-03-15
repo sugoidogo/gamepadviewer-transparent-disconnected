@@ -1,1 +1,3 @@
-
+.controller.disconnected {
+  opacity: 0;
+}
